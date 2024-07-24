@@ -1,0 +1,73 @@
+#header{
+   box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 15px;
+   background-color: #ede8f5;
+}
+body{
+   background-color: #ede8f5;
+}
+#cards{
+   position: relative;
+   height: 1040px;
+}
+.cards{
+   height: 500px;
+   width: 80%;
+   background-color:cornflowerblue;
+   left: 10%;
+   position: relative;
+   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+   padding: 10px;
+   align-content: center;
+   margin: 20px;
+   transition: .3s ease;
+   color: white;
+}
+.cards:hover{
+   transform: scale(1.01);
+}
+#GJ{
+   display: flex;
+   justify-content: space-around;
+   text-align: center;
+}
+#GJleft{
+   height: 460px;
+   width: 50%;
+   align-content: center;
+   position: relative;
+   margin: 10px;
+}
+#GJright{
+   height: 460px;
+   width: 50%;
+   position: relative;
+   margin: 10px;
+   padding: 10px;
+}
+#GJright p{
+   margin-top: 100px;
+   text-align: justify;
+}
+#MH{
+   display: flex;
+   justify-content: space-around;
+   text-align: center;
+}
+#MHleft{
+   height: 460px;
+   width: 50%;
+   align-content: center;
+   position: relative;
+   margin: 10px;
+}
+#MHright{
+   height: 460px;
+   width: 50%;
+   position: relative;
+   margin: 10px;
+   padding: 10px;
+}
+#MHright p{
+   margin-top: 100px;
+   text-align: justify;
+}

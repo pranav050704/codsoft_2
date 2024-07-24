@@ -1,0 +1,116 @@
+.backgroundImage {
+   background-image: url("wallpaper.jpg");
+   filter: blur(1px);
+   height: 100%;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+} 
+.transparentText {
+   background-color: rgba(0, 0, 0, 0.4);
+   color: white;
+   border: 3px solid #f1f1f1;
+   position: absolute;
+   top: 40%;
+   left: 25%;
+   width: 50%;
+   padding: 20px;
+   text-align: center;
+}
+.cards{
+   height: 400px;
+   width: 20%;
+   background-color: rgb(248, 200, 98);
+   border-radius: 20px;
+   float: left;
+   margin: 20px;
+   padding: 10px;
+   color:azure;
+   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+   transition: .3s ease;
+}
+.cards:hover{
+   transform: scale(1.05);
+}
+#cards{
+   height: 1000px;
+   width: 100%;
+   text-align: center;
+   align-content: center;
+   position: relative;
+}
+#card1{
+   background-image: url("northimg.jpg");
+   background-size: cover;
+}
+#card2{
+   background-image: url("eastimg.jpg");
+   background-size: cover;
+   background-position: center;
+}
+#card3{
+   background-image: url("northeastimg.jpg");
+   background-size: cover;
+   background-position: center;
+}
+#card4{
+   background-image: url("centralimg.webp");
+   background-size: cover;
+}
+#card5{
+   background-image: url("westimg.jpg");
+   background-size: cover;
+   background-position: center;
+}
+#card6{
+   background-image: url("southimg.jpg");
+   background-size: cover;
+   background-position: center;
+}
+#card7{
+   background-image: url("utimg.avif");
+   background-size: cover;
+   background-position: center;
+}
+#line1 {
+   height: 3px;
+   width: 500px;
+   background-color: coral;
+   position: relative;
+   left: 30%;
+ }
+#map{
+   text-align: center;
+   padding: 10px;
+}
+#about{
+   height: 600px;
+}
+#about p{
+   text-align: justify;
+   box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 15px;
+}
+#p1{
+   left: 5%;
+   width: 55%;
+   position: relative;
+   align-content: center;
+   background-color:cyan;
+   color: black;
+   padding: 10px;
+   margin: 20px;
+}
+#p2{
+   left: 35%;
+   width: 55%;
+   position: relative;
+   align-content: center;
+   background-color:cyan;
+   color: black;
+   padding: 10px;
+   margin: 20px;
+}
+#about i{
+   font-size: 23px;
+   color: rgb(253, 132, 87);
+}

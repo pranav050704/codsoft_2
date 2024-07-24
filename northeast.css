@@ -1,0 +1,211 @@
+#header{
+   box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 15px;
+   background-color: #ede8f5;
+}
+body{
+   background-color: #ede8f5;
+}
+#cards{
+   position: relative;
+   height: 4140px;
+}
+.cards{
+   height: 500px;
+   width: 80%;
+   background-color:cornflowerblue;
+   left: 10%;
+   position: relative;
+   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+   padding: 10px;
+   align-content: center;
+   margin: 20px;
+   transition: .3s ease;
+   color: white;
+}
+.cards:hover{
+   transform: scale(1.01);
+}
+#SK{
+   display: flex;
+   justify-content: space-around;
+   text-align: center;
+}
+#SKleft{
+   height: 460px;
+   width: 50%;
+   align-content: center;
+   position: relative;
+   margin: 10px;
+}
+#SKright{
+   height: 460px;
+   width: 50%;
+   position: relative;
+   margin: 10px;
+   padding: 10px;
+}
+#SKright p{
+   margin-top: 100px;
+   text-align: justify;
+}
+#AS{
+   display: flex;
+   justify-content: space-around;
+   text-align: center;
+}
+#ASleft{
+   height: 460px;
+   width: 50%;
+   align-content: center;
+   position: relative;
+   margin: 10px;
+}
+#ASright{
+   height: 460px;
+   width: 50%;
+   position: relative;
+   margin: 10px;
+   padding: 10px;
+}
+#ASright p{
+   margin-top: 100px;
+   text-align: justify;
+}
+#AP{
+   display: flex;
+   justify-content: space-around;
+   text-align: center;
+}
+#APleft{
+   height: 460px;
+   width: 50%;
+   align-content: center;
+   position: relative;
+   margin: 10px;
+}
+#APright{
+   height: 460px;
+   width: 50%;
+   position: relative;
+   margin: 10px;
+   padding: 10px;
+}
+#APRright p{
+   margin-top: 100px;
+   text-align: justify;
+}
+#NG{
+   display: flex;
+   justify-content: space-around;
+   text-align: center;
+}
+#NGleft{
+   height: 460px;
+   width: 50%;
+   align-content: center;
+   position: relative;
+   margin: 10px;
+}
+#NGright{
+   height: 460px;
+   width: 50%;
+   position: relative;
+   margin: 10px;
+   padding: 10px;
+}
+#NGright p{
+   margin-top: 100px;
+   text-align: justify;
+}
+#MG{
+   display: flex;
+   justify-content: space-around;
+   text-align: center;
+}
+#MGleft{
+   height: 460px;
+   width: 50%;
+   align-content: center;
+   position: relative;
+   margin: 10px;
+}
+#MGright{
+   height: 460px;
+   width: 50%;
+   position: relative;
+   margin: 10px;
+   padding: 10px;
+}
+#MGright p{
+   margin-top: 100px;
+   text-align: justify;
+}
+#MN{
+   display: flex;
+   justify-content: space-around;
+   text-align: center;
+}
+#MNleft{
+   height: 460px;
+   width: 50%;
+   align-content: center;
+   position: relative;
+   margin: 10px;
+}
+#MNright{
+   height: 460px;
+   width: 50%;
+   position: relative;
+   margin: 10px;
+   padding: 10px;
+}
+#MNright p{
+   margin-top: 100px;
+   text-align: justify;
+}
+#MZ{
+   display: flex;
+   justify-content: space-around;
+   text-align: center;
+}
+#MZleft{
+   height: 460px;
+   width: 50%;
+   align-content: center;
+   position: relative;
+   margin: 10px;
+}
+#MZright{
+   height: 460px;
+   width: 50%;
+   position: relative;
+   margin: 10px;
+   padding: 10px;
+}
+#MZright p{
+   margin-top: 100px;
+   text-align: justify;
+}
+#TP{
+   display: flex;
+   justify-content: space-around;
+   text-align: center;
+}
+#TPleft{
+   height: 460px;
+   width: 50%;
+   align-content: center;
+   position: relative;
+   margin: 10px;
+}
+#TPright{
+   height: 460px;
+   width: 50%;
+   position: relative;
+   margin: 10px;
+   padding: 10px;
+}
+#TPright p{
+   margin-top: 100px;
+   text-align: justify;
+}

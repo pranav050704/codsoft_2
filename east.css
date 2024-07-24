@@ -1,0 +1,119 @@
+#header{
+   box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 15px;
+   background-color: #ede8f5;
+}
+body{
+   background-color: #ede8f5;
+}
+#cards{
+   position: relative;
+   height: 2050px;
+}
+.cards{
+   height: 500px;
+   width: 80%;
+   background-color:cornflowerblue;
+   left: 10%;
+   position: relative;
+   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+   padding: 10px;
+   align-content: center;
+   margin: 20px;
+   transition: .3s ease;
+   color: white;
+}
+.cards:hover{
+   transform: scale(1.01);
+}
+#BH{
+   display: flex;
+   justify-content: space-around;
+   text-align: center;
+}
+#BHleft{
+   height: 460px;
+   width: 50%;
+   align-content: center;
+   position: relative;
+   margin: 10px;
+}
+#BHright{
+   height: 460px;
+   width: 50%;
+   position: relative;
+   margin: 10px;
+   padding: 10px;
+}
+#BHright p{
+   margin-top: 100px;
+   text-align: justify;
+}
+#JK{
+   display: flex;
+   justify-content: space-around;
+   text-align: center;
+}
+#JKleft{
+   height: 460px;
+   width: 50%;
+   align-content: center;
+   position: relative;
+   margin: 10px;
+}
+#JKright{
+   height: 460px;
+   width: 50%;
+   position: relative;
+   margin: 10px;
+   padding: 10px;
+}
+#JKright p{
+   margin-top: 100px;
+   text-align: justify;
+}
+#WB{
+   display: flex;
+   justify-content: space-around;
+   text-align: center;
+}
+#WBleft{
+   height: 460px;
+   width: 50%;
+   align-content: center;
+   position: relative;
+   margin: 10px;
+}
+#WBright{
+   height: 460px;
+   width: 50%;
+   position: relative;
+   margin: 10px;
+   padding: 10px;
+}
+#WBright p{
+   margin-top: 100px;
+   text-align: justify;
+}
+#OR{
+   display: flex;
+   justify-content: space-around;
+   text-align: center;
+}
+#ORleft{
+   height: 460px;
+   width: 50%;
+   align-content: center;
+   position: relative;
+   margin: 10px;
+}
+#ORright{
+   height: 460px;
+   width: 50%;
+   position: relative;
+   margin: 10px;
+   padding: 10px;
+}
+#ORright p{
+   margin-top: 100px;
+   text-align: justify;
+} 

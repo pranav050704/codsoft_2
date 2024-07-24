@@ -1,0 +1,234 @@
+#header{
+   box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 15px;
+   background-color: #ede8f5;
+}
+body{
+   background-color: #ede8f5;
+}
+#cards{
+   position: relative;
+   height: 4660px;
+}
+.cards{
+   height: 500px;
+   width: 80%;
+   background-color:cornflowerblue;
+   left: 10%;
+   position: relative;
+   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+   padding: 10px;
+   align-content: center;
+   margin: 20px;
+   transition: .3s ease;
+   color: white;
+}
+.cards:hover{
+   transform: scale(1.01);
+}
+#JK{
+   display: flex;
+   justify-content: space-around;
+   text-align: center;
+}
+#JKleft{
+   height: 460px;
+   width: 50%;
+   align-content: center;
+   position: relative;
+   margin: 10px;
+}
+#JKright{
+   height: 460px;
+   width: 50%;
+   position: relative;
+   margin: 10px;
+   padding: 10px;
+}
+#JKright p{
+   margin-top: 100px;
+   text-align: justify;
+}
+#LD{
+   display: flex;
+   justify-content: space-around;
+   text-align: center;
+}
+#LDleft{
+   height: 460px;
+   width: 50%;
+   align-content: center;
+   position: relative;
+   margin: 10px;
+}
+#LDright{
+   height: 460px;
+   width: 50%;
+   position: relative;
+   margin: 10px;
+   padding: 10px;
+}
+#LDright p{
+   margin-top: 100px;
+   text-align: justify;
+}
+#DL{
+   display: flex;
+   justify-content: space-around;
+   text-align: center;
+}
+#DLleft{
+   height: 460px;
+   width: 50%;
+   align-content: center;
+   position: relative;
+   margin: 10px;
+}
+#DLright{
+   height: 460px;
+   width: 50%;
+   position: relative;
+   margin: 10px;
+   padding: 10px;
+}
+#DLright p{
+   margin-top: 100px;
+   text-align: justify;
+}
+#CG{
+   display: flex;
+   justify-content: space-around;
+   text-align: center;
+}
+#CGleft{
+   height: 460px;
+   width: 50%;
+   align-content: center;
+   position: relative;
+   margin: 10px;
+}
+#CGright{
+   height: 460px;
+   width: 50%;
+   position: relative;
+   margin: 10px;
+   padding: 10px;
+}
+#CGright p{
+   margin-top: 100px;
+   text-align: justify;
+}
+#DD{
+   display: flex;
+   justify-content: space-around;
+   text-align: center;
+}
+#DDleft{
+   height: 460px;
+   width: 50%;
+   align-content: center;
+   position: relative;
+   margin: 10px;
+}
+#DDright{
+   height: 460px;
+   width: 50%;
+   position: relative;
+   margin: 10px;
+   padding: 10px;
+}
+#DDright p{
+   margin-top: 100px;
+   text-align: justify;
+}
+#DN{
+   display: flex;
+   justify-content: space-around;
+   text-align: center;
+}
+#DNleft{
+   height: 460px;
+   width: 50%;
+   align-content: center;
+   position: relative;
+   margin: 10px;
+}
+#DNright{
+   height: 460px;
+   width: 50%;
+   position: relative;
+   margin: 10px;
+   padding: 10px;
+}
+#DNright p{
+   margin-top: 100px;
+   text-align: justify;
+}
+#PD{
+   display: flex;
+   justify-content: space-around;
+   text-align: center;
+}
+#PDleft{
+   height: 460px;
+   width: 50%;
+   align-content: center;
+   position: relative;
+   margin: 10px;
+}
+#PDright{
+   height: 460px;
+   width: 50%;
+   position: relative;
+   margin: 10px;
+   padding: 10px;
+}
+#PDright p{
+   margin-top: 100px;
+   text-align: justify;
+}
+#LK{
+   display: flex;
+   justify-content: space-around;
+   text-align: center;
+}
+#LKleft{
+   height: 460px;
+   width: 50%;
+   align-content: center;
+   position: relative;
+   margin: 10px;
+}
+#LKright{
+   height: 460px;
+   width: 50%;
+   position: relative;
+   margin: 10px;
+   padding: 10px;
+}
+#LKright p{
+   margin-top: 100px;
+   text-align: justify;
+}
+#AN{
+   display: flex;
+   justify-content: space-around;
+   text-align: center;
+}
+#ANleft{
+   height: 460px;
+   width: 50%;
+   align-content: center;
+   position: relative;
+   margin: 10px;
+}
+#ANright{
+   height: 460px;
+   width: 50%;
+   position: relative;
+   margin: 10px;
+   padding: 10px;
+}
+#ANright p{
+   margin-top: 100px;
+   text-align: justify;
+}

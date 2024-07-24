@@ -1,0 +1,165 @@
+#header{
+   box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 15px;
+   background-color: #ede8f5;
+}
+body{
+   background-color: #ede8f5;
+}
+#cards{
+   position: relative;
+   height: 3100px;
+}
+.cards{
+   height: 500px;
+   width: 80%;
+   background-color:cornflowerblue;
+   left: 10%;
+   position: relative;
+   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+   padding: 10px;
+   align-content: center;
+   margin: 20px;
+   transition: .3s ease;
+   color: white;
+}
+.cards:hover{
+   transform: scale(1.01);
+}
+#HP{
+   display: flex;
+   justify-content: space-around;
+   text-align: center;
+}
+#HPleft{
+   height: 460px;
+   width: 50%;
+   align-content: center;
+   position: relative;
+   margin: 10px;
+}
+#HPright{
+   height: 460px;
+   width: 50%;
+   position: relative;
+   margin: 10px;
+   padding: 10px;
+}
+#HPright p{
+   margin-top: 100px;
+   text-align: justify;
+}
+#PB{
+   display: flex;
+   justify-content: space-around;
+   text-align: center;
+}
+#PBleft{
+   height: 460px;
+   width: 50%;
+   align-content: center;
+   position: relative;
+   margin: 10px;
+}
+#PBright{
+   height: 460px;
+   width: 50%;
+   position: relative;
+   margin: 10px;
+   padding: 10px;
+}
+#PBright p{
+   margin-top: 100px;
+   text-align: justify;
+}
+#HR{
+   display: flex;
+   justify-content: space-around;
+   text-align: center;
+}
+#HRleft{
+   height: 460px;
+   width: 50%;
+   align-content: center;
+   position: relative;
+   margin: 10px;
+}
+#HRright{
+   height: 460px;
+   width: 50%;
+   position: relative;
+   margin: 10px;
+   padding: 10px;
+}
+#HRright p{
+   margin-top: 100px;
+   text-align: justify;
+}
+#UK{
+   display: flex;
+   justify-content: space-around;
+   text-align: center;
+}
+#UKleft{
+   height: 460px;
+   width: 50%;
+   align-content: center;
+   position: relative;
+   margin: 10px;
+}
+#UKright{
+   height: 460px;
+   width: 50%;
+   position: relative;
+   margin: 10px;
+   padding: 10px;
+}
+#UKright p{
+   margin-top: 100px;
+   text-align: justify;
+}
+#UP{
+   display: flex;
+   justify-content: space-around;
+   text-align: center;
+}
+#UPleft{
+   height: 460px;
+   width: 50%;
+   align-content: center;
+   position: relative;
+   margin: 10px;
+}
+#UPright{
+   height: 460px;
+   width: 50%;
+   position: relative;
+   margin: 10px;
+   padding: 10px;
+}
+#UPright p{
+   margin-top: 100px;
+   text-align: justify;
+}
+#RJ{
+   display: flex;
+   justify-content: space-around;
+   text-align: center;
+}
+#RJleft{
+   height: 460px;
+   width: 50%;
+   align-content: center;
+   position: relative;
+   margin: 10px;
+}
+#RJright{
+   height: 460px;
+   width: 50%;
+   position: relative;
+   margin: 10px;
+   padding: 10px;
+}
+#RJright p{
+   margin-top: 100px;
+   text-align: justify;
+}
